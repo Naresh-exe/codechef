@@ -22,4 +22,8 @@ class Codechef
 		
 	}
 }
+<<<<<<< HEAD
 //disap
+=======
+//kudos
+>>>>>>> dadbee6e31994dcb83c8b9ce06bfdbe5c5ebefe7
