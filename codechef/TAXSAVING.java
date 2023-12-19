@@ -22,4 +22,4 @@ class Codechef
 		
 	}
 }
-//kudos
+//disap
