@@ -10,7 +10,7 @@ class Codechef
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
-		//Thankyou
+		//empty
 		Scanner sc=new Scanner(System.in);
 		int T=sc.nextInt();
 	
